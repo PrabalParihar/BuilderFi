@@ -31,9 +31,11 @@ export default function Home() {
             <a href="#modules" className="hover:text-purple-400 transition-colors">Modules</a>
             <a href="#testimonials" className="hover:text-purple-400 transition-colors">Testimonials</a>
           </nav>
-          <button className="bg-gradient-to-r from-purple-600 to-blue-600 hover:opacity-90 px-4 py-2 rounded-md transition-all text-sm md:text-base">
-            Launch App
-          </button>
+          <a href="https://app.builderfi.io" target="_blank" rel="noopener noreferrer">
+            <button className="bg-gradient-to-r from-purple-600 to-blue-600 hover:opacity-90 px-4 py-2 rounded-md transition-all text-sm md:text-base">
+              Launch App
+            </button>
+          </a>
         </div>
       </header>
 
