@@ -46,10 +46,10 @@ export default function Home() {
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/2 mb-10 md:mb-0">
                 <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-                  Stop fighting your <span className="bg-gradient-to-r from-purple-500 to-blue-500 text-transparent bg-clip-text">DeFi tools</span>
+                  Build Agentic Workflows on <span className="bg-gradient-to-r from-purple-500 to-blue-500 text-transparent bg-clip-text">Educhain</span>
                 </h1>
                 <p className="text-xl text-gray-300 mb-8 max-w-lg">
-                  Effortlessly build AI-powered DeFi workflows with our drag-and-drop builder — automate real-time market analysis, optimize trades, and execute on-chain strategies, making decentralized finance simple.
+                  The first no-code Agentic workflow builder for the Educhain ecosystem. Create custom solutions with our intuitive drag-and-drop builder, seamlessly integrating with Blend, SailFish, and edu.fun to build powerful educational finance strategies.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <button className="bg-gradient-to-r from-purple-600 to-blue-600 hover:opacity-90 px-6 py-3 rounded-md text-lg font-medium transition-all">
@@ -236,11 +236,11 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
               <span className="bg-gradient-to-r from-purple-500 to-blue-500 text-transparent bg-clip-text">
-                Ditch the black boxes
+                Empowering Educhain&apos;s DeFi Ecosystem
               </span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto text-center mb-16">
-              Current DeFi tools are fragmented, complex, and difficult to integrate
+              Building the future of educational finance through seamless protocol integration
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -252,8 +252,8 @@ export default function Home() {
                       <path strokeLinecap="round" strokeLinejoin="round" d="M12 3c2.755 0 5.455.232 8.083.678.533.09.917.556.917 1.096v1.044a2.25 2.25 0 0 1-.659 1.591l-5.432 5.432a2.25 2.25 0 0 0-.659 1.591v2.927a2.25 2.25 0 0 1-1.244 2.013L9.75 21v-6.568a2.25 2.25 0 0 0-.659-1.591L3.659 7.409A2.25 2.25 0 0 1 3 5.818V4.774c0-.54.384-1.006.917-1.096A48.32 48.32 0 0 1 12 3Z" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-bold mb-3">Fragmented Ecosystem</h3>
-                  <p className="text-gray-400 mb-4">DeFi protocols are scattered across different chains, interfaces, and standards, making it hard to build cohesive strategies.</p>
+                  <h3 className="text-xl font-bold mb-3">Native Educhain Integration</h3>
+                  <p className="text-gray-400 mb-4">Built specifically for Educhain&apos;s ecosystem, seamlessly connecting with Blend lending, SailFish DEX, and edu.fun launchpad.</p>
                 </div>
               </div>
               
@@ -265,8 +265,8 @@ export default function Home() {
                       <path strokeLinecap="round" strokeLinejoin="round" d="M6.75 7.5l3 2.25-3 2.25m4.5 0h3m-9 8.25h13.5A2.25 2.25 0 0 0 21 18V6a2.25 2.25 0 0 0-2.25-2.25H5.25A2.25 2.25 0 0 0 3 6v12a2.25 2.25 0 0 0 2.25 2.25Z" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-bold mb-3">Technical Complexity</h3>
-                  <p className="text-gray-400 mb-4">Building automated DeFi strategies requires advanced coding skills, leaving most traders unable to implement their ideas.</p>
+                  <h3 className="text-xl font-bold mb-3">EDU Token Utility</h3>
+                  <p className="text-gray-400 mb-4">Maximize EDU token utility through automated yield strategies, liquidity provision, and educational project funding.</p>
                 </div>
               </div>
               
@@ -278,8 +278,8 @@ export default function Home() {
                       <path strokeLinecap="round" strokeLinejoin="round" d="M15.182 16.318A4.486 4.486 0 0 0 12.016 15a4.486 4.486 0 0 0-3.198 1.318M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM9.75 9.75c0 .414-.168.75-.375.75S9 10.164 9 9.75 9.168 9 9.375 9s.375.336.375.75Zm-.375 0h.008v.015h-.008V9.75Zm5.625 0c0 .414-.168.75-.375.75s-.375-.336-.375-.75.168-.75.375-.75.375.336.375.75Zm-.375 0h.008v.015h-.008V9.75Z" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-bold mb-3">Real-time Challenges</h3>
-                  <p className="text-gray-400 mb-4">Market conditions change rapidly, and most DeFi tools lack the real-time adaptability and AI insights needed for optimal execution.</p>
+                  <h3 className="text-xl font-bold mb-3">Educational Focus</h3>
+                  <p className="text-gray-400 mb-4">Designed for educational institutions, students, and alumni to participate in Educhain&apos;s growing DeFi ecosystem.</p>
                 </div>
               </div>
             </div>
@@ -291,11 +291,11 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
               <span className="bg-gradient-to-r from-purple-500 to-blue-500 text-transparent bg-clip-text">
-                Drag. Drop. Deploy.
+                Build Anything on Educhain
               </span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto text-center mb-16">
-              Create complex DeFi strategies without writing a single line of code
+              Create custom solutions with our unified, dynamic canvas
             </p>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
@@ -303,8 +303,8 @@ export default function Home() {
                 <div className="bg-[#151929] p-6 rounded-xl border border-[#222b45] relative overflow-hidden group hover:border-purple-500 transition-all">
                   <div className="absolute top-6 left-6 w-8 h-8 bg-gradient-to-r from-purple-600 to-blue-600 rounded-full flex items-center justify-center text-white font-bold text-sm">1</div>
                   <div className="ml-12">
-                    <h3 className="text-xl font-bold mb-3">Visual Workflow Builder</h3>
-                    <p className="text-gray-400">Intuitive drag-and-drop interface for connecting DeFi components. Create workflows from wallets to DEXs to smart contract interactions.</p>
+                    <h3 className="text-xl font-bold mb-3">Unified Canvas</h3>
+                    <p className="text-gray-400">Design and execute custom solutions on a dynamic canvas. Build anything from DeFi strategies to community engagement tools.</p>
                   </div>
                 </div>
                 
@@ -326,7 +326,7 @@ export default function Home() {
               </div>
               
               <div className="space-y-4">
-                {/* Workflow Visualization */}
+                {/* Community Integration Demo */}
                 <div className="bg-[#151929] p-5 rounded-xl border border-[#222b45] shadow-xl overflow-hidden">
                   <div className="flex items-center justify-between mb-4 bg-[#1A1F35] p-2 rounded-md">
                     <div className="flex items-center">
@@ -334,183 +334,47 @@ export default function Home() {
                       <div className="w-3 h-3 rounded-full bg-yellow-500 mr-2"></div>
                       <div className="w-3 h-3 rounded-full bg-green-500"></div>
                     </div>
-                    <div className="text-sm text-gray-400">Yield Maximizer Flow</div>
-                    <div className="flex items-center space-x-2">
-                      <button className="bg-purple-500/20 hover:bg-purple-500/30 p-1 rounded">
-                        <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-purple-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
-                        </svg>
-                      </button>
-                      <button className="bg-purple-500/20 hover:bg-purple-500/30 p-1 rounded">
-                        <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-purple-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-                        </svg>
-                      </button>
-                    </div>
-                  </div>
-                  
-                  <div className="relative h-[400px] bg-[#1A1F35] rounded-md p-4">
-                    <div className="h-full">
-                      <div className="bg-[#151929] p-3 rounded-md overflow-hidden relative h-full">
-                        <div className="flex flex-col h-full">
-                          <div className="flex-1 relative">
-                            {/* Visual workflow representation */}
-                            <svg width="100%" height="100%" viewBox="0 0 1000 400" preserveAspectRatio="xMidYMid meet" className="min-w-full">
-                              {/* Glowing effect definitions */}
-                              <defs>
-                                <linearGradient id="flowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-                                  <stop offset="0%" stopColor="rgba(139, 92, 246, 0.5)">
-                                    <animate attributeName="offset" values="0;1" dur="2s" repeatCount="indefinite" />
-                                  </stop>
-                                  <stop offset="100%" stopColor="rgba(59, 130, 246, 0.5)">
-                                    <animate attributeName="offset" values="0;1" dur="2s" repeatCount="indefinite" />
-                                  </stop>
-                                </linearGradient>
-                                <filter id="glow">
-                                  <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-                                  <feMerge>
-                                    <feMergeNode in="coloredBlur"/>
-                                    <feMergeNode in="SourceGraphic"/>
-                                  </feMerge>
-                                </filter>
-                              </defs>
-
-                              {/* Connection paths */}
-                              <g filter="url(#glow)">
-                                <path d="M180,200 C220,200 220,100 260,100" stroke="url(#flowGradient)" strokeWidth="2" fill="none" />
-                                <path d="M420,100 C460,100 460,200 500,200" stroke="url(#flowGradient)" strokeWidth="2" fill="none" />
-                                <path d="M420,100 C460,100 460,300 500,300" stroke="url(#flowGradient)" strokeWidth="2" fill="none" />
-                                <path d="M660,200 C700,200 700,200 740,200" stroke="url(#flowGradient)" strokeWidth="2" fill="none" />
-                              </g>
-
-                              {/* Wallet Connect */}
-                              <g transform="translate(20, 160)" className="cursor-pointer" filter="url(#glow)">
-                                <rect width="160" height="80" rx="8" fill="#1F2544" stroke="#8B5CF6" strokeWidth="2">
-                                  <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
-                                </rect>
-                                <text x="80" y="35" fontSize="14" fill="white" textAnchor="middle">Connect Wallet</text>
-                                <text x="80" y="55" fontSize="12" fill="#8B5CF6" textAnchor="middle">EDU Balance: 1000</text>
-                              </g>
-
-                              {/* SailFish Swap */}
-                              <g transform="translate(260, 60)" className="cursor-pointer" filter="url(#glow)">
-                                <rect width="160" height="80" rx="8" fill="#1F2544" stroke="#3B82F6" strokeWidth="2">
-                                  <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
-                                </rect>
-                                <text x="80" y="35" fontSize="14" fill="white" textAnchor="middle">SailFish Swap</text>
-                                <text x="80" y="55" fontSize="12" fill="#3B82F6" textAnchor="middle">EDU → USDT</text>
-                              </g>
-
-                              {/* LP Provision */}
-                              <g transform="translate(500, 160)" className="cursor-pointer" filter="url(#glow)">
-                                <rect width="160" height="80" rx="8" fill="#1F2544" stroke="#8B5CF6" strokeWidth="2">
-                                  <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
-                                </rect>
-                                <text x="80" y="35" fontSize="14" fill="white" textAnchor="middle">Add Liquidity</text>
-                                <text x="80" y="55" fontSize="12" fill="#8B5CF6" textAnchor="middle">APY: 18%</text>
-                              </g>
-
-                              {/* Blend Lending */}
-                              <g transform="translate(500, 260)" className="cursor-pointer" filter="url(#glow)">
-                                <rect width="160" height="80" rx="8" fill="#1F2544" stroke="#22C55E" strokeWidth="2">
-                                  <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
-                                </rect>
-                                <text x="80" y="35" fontSize="14" fill="white" textAnchor="middle">Blend Lending</text>
-                                <text x="80" y="55" fontSize="12" fill="#22C55E" textAnchor="middle">Supply APY: 12%</text>
-                              </g>
-
-                              {/* AI Optimizer */}
-                              <g transform="translate(740, 160)" className="cursor-pointer" filter="url(#glow)">
-                                <rect width="160" height="80" rx="8" fill="#1F2544" stroke="#8B5CF6" strokeWidth="2">
-                                  <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
-                                </rect>
-                                <text x="80" y="35" fontSize="14" fill="white" textAnchor="middle">AI Optimizer</text>
-                                <text x="80" y="55" fontSize="12" fill="#8B5CF6" textAnchor="middle">Auto-rebalance</text>
-                              </g>
-
-                              {/* Animated dots */}
-                              <g filter="url(#glow)">
-                                <circle r="3" fill="#8B5CF6">
-                                  <animateMotion dur="2s" repeatCount="indefinite" path="M180,200 C220,200 220,100 260,100"/>
-                                  <animate attributeName="r" values="2;4;2" dur="2s" repeatCount="indefinite"/>
-                                </circle>
-                                <circle r="3" fill="#3B82F6">
-                                  <animateMotion dur="2s" repeatCount="indefinite" path="M420,100 C460,100 460,200 500,200"/>
-                                  <animate attributeName="r" values="2;4;2" dur="2s" repeatCount="indefinite"/>
-                                </circle>
-                              </g>
-                            </svg>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Marketplace Preview */}
-                <div className="bg-[#151929] p-5 rounded-xl border border-[#222b45] shadow-xl overflow-hidden">
-                  <div className="flex items-center justify-between mb-4 bg-[#1A1F35] p-2 rounded-md">
-                    <div className="flex items-center">
-                      <div className="w-3 h-3 rounded-full bg-red-500 mr-2"></div>
-                      <div className="w-3 h-3 rounded-full bg-yellow-500 mr-2"></div>
-                      <div className="w-3 h-3 rounded-full bg-green-500"></div>
-                    </div>
-                    <div className="text-sm text-gray-400">Popular Workflows</div>
+                    <div className="text-sm text-gray-400">Community Integration</div>
                   </div>
                   
                   <div className="space-y-3">
-                    <div className="bg-[#1A1F35] p-3 rounded-md flex items-center justify-between hover:bg-[#222b45] transition-colors cursor-pointer">
-                      <div className="flex items-center space-x-3">
-                        <div className="w-8 h-8 rounded-lg bg-purple-500/20 flex items-center justify-center">
-                          <span className="text-purple-400">📈</span>
+                    <div className="bg-[#1A1F35] p-3 rounded-md">
+                      <div className="flex items-center space-x-3 mb-2">
+                        <div className="w-8 h-8 rounded-full bg-purple-500/20 flex items-center justify-center">
+                          <span className="text-purple-400">🤖</span>
                         </div>
                         <div>
-                          <div className="text-sm font-medium">Yield Maximizer</div>
-                          <div className="text-xs text-gray-400">by @DeFiPro</div>
+                          <div className="text-sm font-medium">Protocol Assistant</div>
+                          <div className="text-xs text-gray-400">Real-time protocol information</div>
                         </div>
                       </div>
-                      <div className="flex items-center space-x-2">
-                        <span className="text-xs text-green-400">⭐️ 4.9</span>
-                        <button className="bg-purple-500/20 hover:bg-purple-500/30 px-2 py-1 rounded text-xs text-purple-400">
-                          Deploy
-                        </button>
-                      </div>
+                      <div className="text-xs text-gray-300">Automatically answers questions about Blend, SailFish, and edu.fun protocols</div>
                     </div>
                     
-                    <div className="bg-[#1A1F35] p-3 rounded-md flex items-center justify-between hover:bg-[#222b45] transition-colors cursor-pointer">
-                      <div className="flex items-center space-x-3">
-                        <div className="w-8 h-8 rounded-lg bg-blue-500/20 flex items-center justify-center">
-                          <span className="text-blue-400">🔄</span>
+                    <div className="bg-[#1A1F35] p-3 rounded-md">
+                      <div className="flex items-center space-x-3 mb-2">
+                        <div className="w-8 h-8 rounded-full bg-blue-500/20 flex items-center justify-center">
+                          <span className="text-blue-400">📢</span>
                         </div>
                         <div>
-                          <div className="text-sm font-medium">Auto-Rebalancer</div>
-                          <div className="text-xs text-gray-400">by @CryptoTrader</div>
+                          <div className="text-sm font-medium">Event Updates</div>
+                          <div className="text-xs text-gray-400">Hackathon & community events</div>
                         </div>
                       </div>
-                      <div className="flex items-center space-x-2">
-                        <span className="text-xs text-green-400">⭐️ 4.7</span>
-                        <button className="bg-purple-500/20 hover:bg-purple-500/30 px-2 py-1 rounded text-xs text-purple-400">
-                          Deploy
-                        </button>
-                      </div>
+                      <div className="text-xs text-gray-300">Keeps community informed about upcoming events and important announcements</div>
                     </div>
                     
-                    <div className="bg-[#1A1F35] p-3 rounded-md flex items-center justify-between hover:bg-[#222b45] transition-colors cursor-pointer">
-                      <div className="flex items-center space-x-3">
-                        <div className="w-8 h-8 rounded-lg bg-green-500/20 flex items-center justify-center">
-                          <span className="text-green-400">💧</span>
+                    <div className="bg-[#1A1F35] p-3 rounded-md">
+                      <div className="flex items-center space-x-3 mb-2">
+                        <div className="w-8 h-8 rounded-full bg-green-500/20 flex items-center justify-center">
+                          <span className="text-green-400">💬</span>
                         </div>
                         <div>
-                          <div className="text-sm font-medium">Liquidity Provider</div>
-                          <div className="text-xs text-gray-400">by @LiquidityKing</div>
+                          <div className="text-sm font-medium">Community Support</div>
+                          <div className="text-xs text-gray-400">24/7 automated assistance</div>
                         </div>
                       </div>
-                      <div className="flex items-center space-x-2">
-                        <span className="text-xs text-green-400">⭐️ 4.8</span>
-                        <button className="bg-purple-500/20 hover:bg-purple-500/30 px-2 py-1 rounded text-xs text-purple-400">
-                          Deploy
-                        </button>
-                      </div>
+                      <div className="text-xs text-gray-300">Provides instant support and guidance for community members</div>
                     </div>
                   </div>
                 </div>
@@ -524,11 +388,11 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
               <span className="bg-gradient-to-r from-purple-500 to-blue-500 text-transparent bg-clip-text">
-                Powering the EDU Ecosystem
+                Driving Educhain&apos;s Growth
               </span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto text-center mb-16">
-              Driving growth and innovation across the EDUChain ecosystem
+              Empowering the educational finance revolution on Educhain
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -541,8 +405,8 @@ export default function Home() {
                       <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 18L9 11.25l4.306 4.307a11.95 11.95 0 015.814-5.519l2.74-1.22m0 0l-5.94-2.28m5.94 2.28l-2.28 5.941" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-bold mb-3">Increased Transaction Volume</h3>
-                  <p className="text-gray-400 mb-4">Driving significant transaction volume to EDUChain through automated trading strategies and cross-protocol interactions.</p>
+                  <h3 className="text-xl font-bold mb-3">EDU Token Adoption</h3>
+                  <p className="text-gray-400 mb-4">Driving EDU token utility through automated trading strategies and cross-protocol interactions on Educhain.</p>
                   <div className="flex items-center text-sm text-purple-400">
                     <span className="mr-2">🔄</span>
                     <span>Growing EDU ecosystem liquidity</span>
@@ -559,11 +423,11 @@ export default function Home() {
                       <path strokeLinecap="round" strokeLinejoin="round" d="M13.19 8.688a4.5 4.5 0 011.242 7.244l-4.5 4.5a4.5 4.5 0 01-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 00-6.364-6.364l-4.5 4.5a4.5 4.5 0 001.242 7.244" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-bold mb-3">Seamless Protocol Integration</h3>
-                  <p className="text-gray-400 mb-4">Direct integration with EDUChain ecosystem projects like Blend, SailFish, and edu.fun, increasing protocol usage and token utility.</p>
+                  <h3 className="text-xl font-bold mb-3">Ecosystem Integration</h3>
+                  <p className="text-gray-400 mb-4">Seamless integration with Educhain&apos;s core protocols: Blend lending, SailFish DEX, and edu.fun launchpad.</p>
                   <div className="flex items-center text-sm text-blue-400">
                     <span className="mr-2">🔗</span>
-                    <span>Connected ecosystem protocols</span>
+                    <span>Connected Educhain protocols</span>
                   </div>
                 </div>
               </div>
@@ -577,11 +441,11 @@ export default function Home() {
                       <path strokeLinecap="round" strokeLinejoin="round" d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-bold mb-3">Integrated Communication</h3>
-                  <p className="text-gray-400 mb-4">Real-time Telegram chat integration provides instant support and updates during hackathons, events, and daily operations.</p>
+                  <h3 className="text-xl font-bold mb-3">Educational Community</h3>
+                  <p className="text-gray-400 mb-4">Built for educational institutions, students, and alumni to participate in Educhain&apos;s DeFi ecosystem.</p>
                   <div className="flex items-center text-sm text-green-400">
-                    <span className="mr-2">💬</span>
-                    <span>24/7 community support</span>
+                    <span className="mr-2">🎓</span>
+                    <span>Empowering educational finance</span>
                   </div>
                 </div>
               </div>
